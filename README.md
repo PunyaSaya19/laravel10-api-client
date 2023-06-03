@@ -1,0 +1,1 @@
+# Contoh cara akses laravel api dengan jquery ajax
